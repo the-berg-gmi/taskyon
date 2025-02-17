@@ -2,7 +2,7 @@
 
 <img align="left" src="/public/taskyon_fancy_logo.png" onerror="this.onerror=null; this.src='/taskyon_fancy_logo.png';" alt="Taskyon Fancy Logo" width="200" style="padding-right: 50px;"/>
 
-- 🌐🔗 Seamless Web Integration
+- 🌐🔗    MAINLINE   Seamless Web Integration
 - 👥🛠️ Personalized AI Assistant 🤖
 - 🏡🌟 Local First
 - 🌳✅ Task Trees
